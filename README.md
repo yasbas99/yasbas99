@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yasbas99
+- 👀 I’m interested in art, travel and code
+- 🌱 I’m currently learning some fun javascript
